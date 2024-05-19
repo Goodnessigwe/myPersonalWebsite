@@ -1,2 +1,2 @@
 # myPersonalWebsite
-My Mini Website
+This project is My Mini portfolio Website using just HTML and CSS.
